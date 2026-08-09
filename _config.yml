@@ -1,0 +1,29 @@
+title: 我的 Hexo 博客
+subtitle: ''
+description: ''
+keywords:
+author: YourName
+language: zh-CN
+timezone: Asia/Shanghai
+
+url: https://你的用户名.github.io
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true
+  trailing_html: true
+
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archive
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render: []
+
+theme: landscape
+
+deploy:
+  type: ''
